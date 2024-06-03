@@ -9,9 +9,13 @@
 - I am eager to contribute to the life sciences industry and make a meaningful impact on human health. 
 <br>
 
-📫 **Contact me via**:
-- [Email](midhuna1971@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/midhuna-sree-chittineni/)
+
+## Happy to connect on:
+
+<p>
+  <a href="mailto:midhuna1971@gmail.com?subject=[GitHub]%20Contact&body=Hello,"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/midhuna-sree-chittineni/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <!--
 **Midhunasree/Midhunasree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
