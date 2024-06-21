@@ -3,7 +3,7 @@
 **About me**
 <br>
 
-- I recently graduated from Northeastern University - College of Science with a Master's in Bioinformatics.
+- I recently graduated with a Master's in Bioinformatics.
 - I bring a blend of biotechnology and data skills to the table.
 - I excel in omics data integration, analysis, NGS pipeline development, and predictive modeling.
 - I am eager to contribute to the life sciences industry and make a meaningful impact on human health. 
